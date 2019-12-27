@@ -1,3 +1,29 @@
 = XYZ Reader Starter Code
 
-This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree.
+Udacity Android Developer Nanodegree - Projects 5: Make Your App Material
+
+Improved the user experience of a news reading app using Material Design principles. Implimented use of Material Design UI standard components i.e. android design fundamentals, bold graphic design, fonts, color, adaptive design, meaningful motion, constrain layout and surfaces.
+
+= Project Requirements
+
+Uses Picasso, Picasso Pallette to display the Images and choose the color of the text view and textview bar according to the pallette of the image loaded.
+
+Uses the Design Support library and its provided widget types (FloatingActionButton, AppBarLayout, SnackBar, etc).
+
+Uses CoordinatorLayout for the main Activity.
+
+App theme extends from AppCompat.
+
+Uses an AppBar and associated Toolbars.
+
+Uses provides a Floating Action Button for the most common action(s).
+
+Application properly specifies elevations for app bars, FABs, and other elements specified in the Material Design specification.
+
+Application has a consistent color theme defined in styles.xml. Color theme does not impact usability of the app.
+
+Application provides sufficient space between text and surrounding elements.
+
+Application uses images that are high quality, specific, and full bleed.
+
+Uses fonts that are either the Android defaults, are complementary, and aren't otherwise distracting.
